@@ -10,7 +10,7 @@ SQLIte library for Orbis
 ===========================
   
  - Electronic Arts Inc for EAWebkit source code for Sony PlaysStation families orbis and prospero included at https://gpl.ea.com/eawebkit.html :P
- - xyzz and for sqlite modification library for VITA from https://github.com/VitaSmith/libsqlite
+ - xyzz and VitaSmith for sqlite modification library for VITA from https://github.com/VitaSmith/libsqlite
  - @frangar @fjtrujy @psxdev aka "los nenes"
  - All people who have been using liborbis
  - All orbisdev, ps3dev, vitasdk and ps2dev old comrades
