@@ -19,7 +19,7 @@ SQLIte library for Orbis
 ===========================
 
 About sqlite3.h EA include this about it from orginal SQLite source code
-**
+```**
 ** The author disclaims copyright to this source code.  In place of
 ** a legal notice, here is a blessing:
 **
@@ -28,5 +28,5 @@ About sqlite3.h EA include this about it from orginal SQLite source code
 **    May you share freely, never taking more than you give.
 **
 *************************************************************************
-
+```
 orbis-vfs.c is based on code from xyzz and VitaSmith and part of vfs implemetation from EA so it should use gpl 
